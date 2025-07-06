@@ -6,7 +6,7 @@
       "Rating": "ALTA"
     },
     {
-      "Code": "DOC00002",
+      "Code": "DOC000023",
       "Message": "Data de nascimento compatível",
       "Rating": "MEDIA"
     }
@@ -30,6 +30,6 @@
     },
     "email": "joao.silva@email.com"
   },
-  "VerificationRisk": "BAIXO",
+  "VerificationRisk": "ALTO",
   "VerificationScore": 85
 }
